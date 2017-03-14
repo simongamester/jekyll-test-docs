@@ -3,7 +3,7 @@
 topnav:
 - title: Topnav
   items:
-    - title: News 123
+    - title: News
       url: /news
 
 #Topnav dropdowns
